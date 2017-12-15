@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	
+}
+body
+{
+	background : url("") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	font-family: verdana;
+	
+}
+#contenedor
+{
+	box-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+	margin: 0 auto;
+	max-width:1440px;
+	width: 100%;
+
+}
+section{
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1100px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	position: relative;
+	width: 100%;
+}
+#bloque1{
+	background-image: url("images/img1.jpeg");
+}
+#bloque2{
+	background-image: url("images/picadili.jpg");
+}
+#bloque3{
+	background-image: url("images/IMG.jpg");
+}
+#bloque4{
+	background-image: url("images/RIENDO2.jpg");
+}
+h1{
+	
+	background-color: #02223a;
+	bottom: 0;
+	color:  yellow;
+	display: block;
+	font-size: 5em;
+	font-weight: bold;
+	margin-top: 1.5em;
+	opacity: 0.76;
+	text-align: center;
+	text-shadow: 2px 2px 2px #666;
+	text-transform: uppercase;
+	width: 100%;
+}
+h2{
+	
+	color: #fff;
+	font-size: 3em;
+	font-weight: bold;
+	margin-top: 5em;
+	opacity: 0.85;
+	text-align: center;
+	text-shadow: 2px 2px 2px  #F4D03F;
+	text-transform: uppercase;	
+	
+}
+strong{
+	color: #FFC300;
+	text-shadow: 2px 2px 2px  #2980B9;
+}
+#boque2, p{
+
+	margin-top: 5em;
+	font-size: 1em;
+	text-align: center;
+	font-weight: bold;
+	width: 50%;
+	margin-left: 22%;
+	text-shadow: 1px 1px 1px #ccc;
+	text-transform: uppercase;
+	background-color: #F4D03F;
+	opacity:0.60;
+	padding: 1em;
+}
+p{
+	line-height: 1.2em;
+	padding: 3em;
+}
+
+img{
+	margin-left: 50%;
+	padding: 0.3%;
+}
